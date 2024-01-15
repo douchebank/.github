@@ -1,12 +1,8 @@
-## Hi there 👋
+# Hello there 👋🏼
 
-<!--
+#### Ready to take your investing journey from web2 to web3 ? 🤑
+#### Looking for index funds alternatives in web3 ? 👨🏻‍💻
+#### Say no more. DooshBank is here. 🔥 Transfer your GHO tokens from your Smart Wallet to any of our existing index plans or create your customized plan. 💸
+#### Your GHO tokens will get converted to the tokens according to the specified allocations as per the plan. 🚀 Automate this process using your Smart Wallet to make investments in web3 smarter and simpler. 🦾
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Eat, Sleep, Invest, Repeat
